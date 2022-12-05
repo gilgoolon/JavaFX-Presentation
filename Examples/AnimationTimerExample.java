@@ -1,3 +1,5 @@
+// This example is taken from the course's book "Java How to Program Early Objects 11th edition"
+
 import javafx.animation.AnimationTimer;
 import javafx.fxml.FXML;
 import javafx.geometry.Bounds;
