@@ -1,3 +1,5 @@
+/*This example is taken from the course's book "Java How to Program Early Objects 11th edition"*/
+
 Rectangle {
     -fx-stroke-width: 10;
     -fx-stroke: red;
