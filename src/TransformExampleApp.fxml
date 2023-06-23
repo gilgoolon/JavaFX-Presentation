@@ -1,0 +1,11 @@
+<!--This example is taken from the course's book "Java How to Program Early Objects 11th edition"-->
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.*?>
+
+<Pane xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="TransformExample"
+            prefHeight="300.0" prefWidth="300.0"
+            fx:id="pane"/>
